@@ -1,0 +1,5 @@
+- 👋 Hey, I’m @mkisX4
+- 👁️ I’m interested in game development, machine learning and a bit of web.
+- 🌱 I’m currently learning Godot, level and narrative design principles.
+- 💔 I’m not looking for collaborations right now.
+- 📫 How to reach me: dstu1914346@gmail.com
